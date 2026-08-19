@@ -27,5 +27,5 @@ src/
 This repo is part of my ongoing learning path toward becoming an Automation Engineer / SDET.
 
 ## 🔗 Connect With Me
-- LinkedIn: *your link here*
-- GitHub: *your profile link*
+- LinkedIn: *www.linkedin.com/in/seth-cameron-crichton-448670220*
+
