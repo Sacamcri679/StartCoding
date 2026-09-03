@@ -1,6 +1,8 @@
-package programmingWithJava.Lab1;
+package programmingWithJava.SolvingMultipleInheritance.Lab1;
 
-public class Rectangle extends Shape{
+import programmingWithJava.SolvingMultipleInheritance.Lab1.Shape;
+
+public class Rectangle extends Shape {
     float width;
     float height;
     String lineColor;

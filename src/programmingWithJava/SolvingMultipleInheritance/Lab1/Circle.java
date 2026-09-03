@@ -1,6 +1,8 @@
-package programmingWithJava.Lab1;
+package programmingWithJava.SolvingMultipleInheritance.Lab1;
 
-public class Circle extends Shape{
+import programmingWithJava.SolvingMultipleInheritance.Lab1.Shape;
+
+public class Circle extends Shape {
     float radius;
 
     Circle(float r) {

@@ -1,4 +1,4 @@
-package programmingWithJava.Lab2;
+package programmingWithJava.SolvingMultipleInheritance.Lab2;
 
 
 

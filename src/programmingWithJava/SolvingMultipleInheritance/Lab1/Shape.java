@@ -1,4 +1,4 @@
-package programmingWithJava.Lab1;
+package programmingWithJava.SolvingMultipleInheritance.Lab1;
 
 abstract class Shape {
 
